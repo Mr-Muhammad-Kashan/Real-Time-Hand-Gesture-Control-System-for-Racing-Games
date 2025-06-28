@@ -7,7 +7,7 @@ echo ============================================================
 echo REAL-TIME HAND GESTURE CONTROL SYSTEM SETUP
 echo ============================================================
 echo Author: Muhammad Kashan Tariq ^| Version: 1.0.0
-echo Optimized for Intel 13th or 14th Gen + NVIDIA RTX GPUs + 16GB RAM
+echo Optimized for Intel 13th or 14th Gen + NVIDIA RTX GPUs + 32GB RAM
 echo ============================================================
 
 echo.
