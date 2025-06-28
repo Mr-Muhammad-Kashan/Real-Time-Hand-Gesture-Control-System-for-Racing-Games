@@ -1,7 +1,7 @@
 # Military-Grade Real-Time Hand Gesture Control System for Racing Games
 # Requirements file for Python 3.10.11 environment
 # Author: Muhammad Kashan Tariq
-# Optimized for Intel CPUs + NVIDIA RTX GPUs [CUDA enabled] + 16GB DDR5 or DDR4
+# Optimized for Intel CPUs + NVIDIA RTX GPUs [CUDA enabled] + 32GB DDR5 or DDR4
 
 # Core Computer Vision and AI Libraries (Compatible with your MediaPipe 0.10.21)
 opencv-python>=4.8.0
