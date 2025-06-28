@@ -10,7 +10,7 @@ Transform your racing game experience with cutting-edge AI-powered hand gesture 
 **Author:** Muhammad Kashan Tariq <br>
 **LinkedIn:** https://www.linkedin.com/in/muhammad-kashan-tariq  <br>
 **Version:** 1.0.0   <br>
-**Target Hardware:** Intel 13th or 14th Gen CPU + NVIDIA RTX enabled GPUs + 16GB RAM   <br>
+**Target Hardware:** Intel 13th or 14th Gen CPU + NVIDIA RTX enabled GPUs + 32GB RAM   <br>
 **Supported Games:** Forza Horizon 5, and any racing game accepting keyboard input   <br>
 
 ---
