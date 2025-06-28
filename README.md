@@ -1,3 +1,6 @@
+
+![Thumbnail](image.jpg)
+<br>
 # Real-Time Hand Gesture Control System for Racing Games
 
 ## 🎮 Revolutionary Gaming Experience
