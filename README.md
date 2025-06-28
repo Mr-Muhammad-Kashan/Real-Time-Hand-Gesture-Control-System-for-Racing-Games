@@ -1,5 +1,5 @@
 
-![Thumbnail](image.jpg)
+![Thumbnail](Image.jpg)
 <br>
 # Real-Time Hand Gesture Control System for Racing Games
 
