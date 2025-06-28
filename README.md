@@ -4,18 +4,18 @@
 
 Transform your racing game experience with cutting-edge AI-powered hand gesture recognition! Control **Forza Horizon 5** and other racing games using natural hand movements detected through your webcam. No controllers needed - just your hands!
 
-**Author:** Muhammad Kashan Tariq
-**LinkedIn:** https://www.linkedin.com/in/muhammad-kashan-tariq
-**Version:** 1.0.0  
-**Target Hardware:** Intel 13th or 14th Gen CPU + NVIDIA RTX enabled GPUs + 16GB RAM  
-**Supported Games:** Forza Horizon 5, and any racing game accepting keyboard input  
+**Author:** Muhammad Kashan Tariq <br>
+**LinkedIn:** https://www.linkedin.com/in/muhammad-kashan-tariq  <br>
+**Version:** 1.0.0   <br>
+**Target Hardware:** Intel 13th or 14th Gen CPU + NVIDIA RTX enabled GPUs + 16GB RAM   <br>
+**Supported Games:** Forza Horizon 5, and any racing game accepting keyboard input   <br>
 
 ---
 
 ## 🚀 Quick Start Guide (5 Minutes Setup)
 
-### ⚠️ IMPORTANT: MediaPipe Compatibility Fix
-If you encounter the MediaPipe error `'Hands' object has no attribute 'model_complexity'`, don't worry! The new system automatically handles MediaPipe version compatibility. The updated code works with MediaPipe 0.10.8 through 0.10.21+ including your current version.
+### ⚠️ IMPORTANT: MediaPipe Compatibility Fix  <br>
+If you encounter the MediaPipe error `'Hands' object has no attribute 'model_complexity'`, don't worry! The new system automatically handles MediaPipe version compatibility. The updated code works with MediaPipe 0.10.8 through 0.10.21+ including your current version.  <br>
 
 ## 🚀 Quick Start Guide (15 Minutes Setup)
 
