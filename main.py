@@ -3,14 +3,14 @@
 Real-Time Hand Gesture Control System for Racing Games Using Computer Vision
 ===========================================================================
 
-A military-grade, ultra-low latency computer vision system for controlling racing games
+An ultra-low-latency computer vision system for controlling racing games
 through precise hand gestures using advanced AI and computer vision techniques.
 
 Author: Muhammad Kashan Tariq
-Linkedin: https://www.linkedin.com/in/muhammad-kashan-tariq
+LinkedIn: https://www.linkedin.com/in/muhammad-kashan-tariq
 Version: 1.0.0
 Date: 2025-06-28
-Hardware: Intel i7-14700KF + RTX 4070 SUPER + 64GB DDR5
+Hardware Recommended: Intel i7 or i9 cpu + NVIDIA RTX GPU + atleast 32GB DDR4 or DDR 5 ram
 Software: Python 3.10, CUDA 12.1, cuDNN 8.9.7, TensorRT 8.6.1.6
 
 TESTED WITH FORZA HORIZON 5 - COMPATIBLE WITH ALL RACING GAMES
