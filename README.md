@@ -18,7 +18,7 @@ Transform your racing game experience with cutting-edge AI-powered hand gesture 
 ## 🚀 Quick Start Guide (5 Minutes Setup)
 
 ### ⚠️ IMPORTANT: MediaPipe Compatibility Fix  <br>
-If you encounter the MediaPipe error `'Hands' object has no attribute 'model_complexity'`, don't worry! The new system automatically handles MediaPipe version compatibility. The updated code works with MediaPipe 0.10.8 through 0.10.21+ including your current version.  <br>
+If you encounter the MediaPipe error `'Hands' object has no attribute 'model_complexity'`, don't worry! The new system automatically handles MediaPipe version compatibility. The updated code works with MediaPipe 0.10.8 through 0.10.21+, including your current version.  <br>
 
 ## 🚀 Quick Start Guide (15 Minutes Setup)
 
@@ -47,7 +47,7 @@ Before starting, ensure you have:
 In the VS Code terminal, run these commands one by one:
 
 ```bash
-# Create virtual environment
+# Create a virtual environment
 python -m venv Python-3.10
 
 # Activate virtual environment (Windows)
@@ -66,7 +66,7 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-**⏱️ Installation Time:** 5-10 minutes depending on internet speed
+**⏱️ Installation Time:** 5-10 minutes, depending on internet speed
 
 ### Step 4: Test System 🧪
 
@@ -105,7 +105,7 @@ python main.py
 - **Gesture:** Both hands closed in fists
 - **Alignment:** Hands horizontally aligned
 - **Game Action:** Accelerate forward (W key)
-- **Use:** Move car forward at increasing speed
+- **Use:** Move the car forward at increasing speed
 
 #### 🔄 **Reverse (Move Backward)**
 - **Gesture:** Right hand open, left hand closed (fist)
@@ -236,7 +236,7 @@ The system displays live performance metrics:
 
 **If experiencing high latency (>50ms):**
 1. Close background applications
-2. Reduce camera resolution in config
+2. Reduce camera resolution in the config
 3. Ensure good lighting for faster detection
 4. Check Windows power settings (High Performance)
 5. Update graphics drivers
@@ -249,7 +249,7 @@ The system displays live performance metrics:
 
 - **ESC Key:** Instant emergency stop (releases all keys)
 - **P Key:** Pause/resume gesture recognition
-- **Auto-Brake:** Automatic brake when hands not detected
+- **Auto-Brake:** Automatic brake when hands are not detected
 - **Safe Mode:** Conservative gesture recognition for beginners
 
 ### Safety Guidelines ⚠️
@@ -272,9 +272,9 @@ Error: "Failed to open camera device 0"
 ```
 **Solutions:**
 - Try different camera indices: Change `device_id` in config to 1, 2, or 3
-- Ensure camera is not used by other applications
+- Ensure the camera is not used by other applications
 - Check camera permissions in Windows Privacy settings
-- Try reconnecting USB camera
+- Try reconnecting the USB camera
 
 #### **Poor Gesture Recognition**
 ```
@@ -285,7 +285,7 @@ Issue: Gestures not detected accurately
 - Clean camera lens
 - Adjust distance (2-3 feet optimal)
 - Reduce background clutter
-- Check hand positioning guide
+- Check the hand positioning guide
 
 #### **High Latency Issues**
 ```
@@ -300,10 +300,10 @@ Warning: High latency detected: >50ms
 
 #### **Input Not Working in Game**
 ```
-Issue: Gestures detected but game not responding
+Issue: Gestures detected, but the game is not responding
 ```
 **Solutions:**
-- Run system as Administrator
+- Run the system as Administrator
 - Ensure game is in focus (click on game window)
 - Check game key bindings match system config
 - Disable Windows Game Mode temporarily
@@ -314,7 +314,7 @@ Issue: Gestures detected but game not responding
 Error: Module not found or installation issues
 ```
 **Solutions:**
-- Ensure virtual environment is activated
+- Ensure the virtual environment is activated
 - Reinstall requirements: `pip install -r requirements.txt --force-reinstall`
 - Update pip: `python -m pip install --upgrade pip`
 - Check Python version: `python --version` (should be 3.10+)
