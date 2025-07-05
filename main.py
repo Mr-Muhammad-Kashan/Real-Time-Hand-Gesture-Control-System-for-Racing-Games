@@ -3622,7 +3622,7 @@ class MilitaryGradeGestureControlSystem:
             print(f"   📈 Average Processing Rate: {self.gesture_count / total_time:.1f} gestures/sec")
         
         print("\n✅ System cleanup completed successfully!")
-        print("🏁 Thank you for using the Military-Grade Gesture Control System!")
+        print("🏁 Thank you for using the My Gesture Control System!")
         print("🎮 Ready for your next racing adventure!")
 
 def main():
